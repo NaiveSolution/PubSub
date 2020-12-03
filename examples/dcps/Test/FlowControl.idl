@@ -1,0 +1,10 @@
+
+module tutorial2 {
+    
+  struct FlowSensorType {
+    short id;
+    float flow_rate;
+    float pressure;
+  };
+#pragma keylist FlowSensorType id
+};

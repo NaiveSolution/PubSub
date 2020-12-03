@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/tariq/tariq/opensplice/install/HDE/x86_64.linux/include/dcps/C++/isocpp2/**",
+                "/home/tariq/tariq/opensplice/install/HDE/x86_64.linux/include/sys/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
